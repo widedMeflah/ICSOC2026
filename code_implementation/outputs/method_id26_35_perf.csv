@@ -1,0 +1,12 @@
+metric,value
+n_requests,10
+n_ok,6
+n_err,4
+n_llm_calls_total,27
+total_prompt_tokens,139374
+total_completion_tokens,13221
+total_tokens,152595
+wall_clock_s,495.355
+avg_latency_s,43.468
+avg_total_tokens,25432.5
+avg_llm_calls,4.5

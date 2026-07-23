@@ -1,0 +1,2 @@
+{"id": 43, "type_conflit": "Type 2", "type_requete": "Complete SERVICE Oriented", "model": "mistral-large-2512", "seed": 0, "option_index": 1, "variant": "ablation1", "error": "Échec génération JSON.", "parse_ok": false}
+{"summary": true, "variant": "ablation1", "model": "mistral-large-2512", "seed": 0, "option_index": 1, "n_requests": 1, "n_ok": 0, "n_err": 1, "n_llm_calls_total": 0, "total_prompt_tokens": 0, "total_completion_tokens": 0, "total_tokens": 0, "sum_latency_s": 0.0, "wall_clock_s": 37.994, "avg_latency_s": null, "avg_total_tokens": null, "avg_llm_calls": null}
