@@ -20,8 +20,7 @@ ICSOC2026/
 │       discovery), (5) ground-truth conflicts, (6) admissible relaxations,
 │       (7) near-miss flag.
 │
-├── code_implementation/
-│   └── Python implementation of the framework
+├
 │
 └── evaluation_results/
     └── Experimental results
